@@ -1,0 +1,6 @@
+{
+  "name": "NOVA - Intelligent Student Platform",
+  "description": "An intelligent personal platform uniting study support, campus assistance, career development, and student wellbeing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
